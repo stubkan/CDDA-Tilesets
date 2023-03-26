@@ -150,13 +150,13 @@
   },
   {
     "id": "vp_hdroof",
-    "fg": "1767_vp_hdroof_0",
+    "fg": "vp_hdroof",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "1767_vp_hdroof_0"
+        "bg": "vp_hdroof"
       }
     ]
   },
@@ -270,13 +270,13 @@
   },
   {
     "id": "vp_roof",
-    "fg": "1799_vp_roof_0",
+    "fg": "vp_roof.png",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "1799_vp_roof_0"
+        "bg": "vp_roof.png"
       }
     ]
   },
